@@ -13,14 +13,11 @@ git clone : [https://github.com/ajanujaj/Object-detection-with-YOLOv8n.git]
 
 
 <h4>Install Dependencies:</h4>
-pip install torch torch scikit-learn
+pip install ultralytics
 
-
-<h4>Download the Dataset:</h4>
-  Download the fashion dataset from the provided URL and place it in the project directory.
 
 <h4>Training and evaluation the Model:</h4>
-  Run the ImageClassification_FashionDataset.ipynb
+  Run the obj_detection.ipynb
 
 <h4>Contributing</h4>
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or a pull request.
