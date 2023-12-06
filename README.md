@@ -9,7 +9,7 @@ The dataset used for training and evaluation is sourced from Kaggle. You can dow
 <h3>Getting Started</h3>
 
 <h4>Clone the repository:</h4>
-git clone : https://github.com/ajanujaj/ImgClassification_FashionDataset.git
+git clone : [https://github.com/ajanujaj/Object-detection-with-YOLOv8n.git]
 
 
 <h4>Install Dependencies:</h4>
